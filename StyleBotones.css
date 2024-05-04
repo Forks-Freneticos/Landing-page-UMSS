@@ -1,0 +1,15 @@
+*{
+    padding:0;
+    margin: 0;
+}
+
+.ContenedorJE{
+    background-color: aqua;
+    width: 100%;
+}
+
+.VideoJE{
+    width: 560px; 
+    height: 315px;
+    padding: 2rem;
+}
