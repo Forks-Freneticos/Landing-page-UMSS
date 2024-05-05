@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Open Sans, Arial, sans-serif;
+}
+
+.ContenedorFooter{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 17rem;
+    justify-content: center;
+
+}
+
+.ContenedorFooter h1{
+    font-family: 'Work Sans',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 1.8em;
+}
+
+
+.ContendorTextoFooter{
+    width: 37rem;
+    line-height: 2em;
+    text-align: center;
+}
