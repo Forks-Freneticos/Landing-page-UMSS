@@ -26,3 +26,83 @@
     line-height: 2em;
     text-align: center;
 }
+
+
+
+/*Parte del Footer*/
+
+.ContenedorFooterSocial{
+    background-image: url(./Assets/Images/5650360.png);
+    background-blend-mode: multiply;
+    background-color: #002a4c ;
+    height: 7rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;    
+    color: white;
+    background-size: cover;
+    background-position: 50%;
+    background-repeat: no-repeat;
+}
+
+.ContenedorLogoUmss{
+    display: flex;
+    align-items: center;
+    font-weight: 300;
+}
+
+.LogoUmss{
+    width: 5rem;
+    height: 5rem;
+    margin: 1rem;
+}
+
+.ContenedorSocial{
+    display: flex;
+    align-items: center;
+}
+
+.ContenedorSocial p{
+    margin: 0.4rem;
+}
+
+.mercado-match{
+    color: antiquewhite;
+}
+
+.ContendorRedes{
+    display: flex; 
+    
+}
+
+.ContendorRedes a{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+.ContendorRedes li {
+    text-decoration: none;
+    list-style: none;
+    margin-top: 0.4rem;
+    padding: 0.2rem;
+}
+
+.ImagenRedSocial{
+    width: 1.5rem;
+}
+
+@media only screen and (max-width: 980px) {
+    .ContenedorLogoUmss{
+        flex-direction: column;
+        width: 25rem;
+        text-align: center;
+    }
+
+    .ContenedorFooterSocial{
+        flex-direction: column;
+        height: 100%;
+    }
+
+
+}
