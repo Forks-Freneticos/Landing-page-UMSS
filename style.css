@@ -8,6 +8,11 @@ body {
   height: 100vh;
 }
 
+.seccion-tarjetas {
+  height: 100%;
+  background-color: #1d2634;
+}
+
 .contenedor-tarjetas {
   margin: auto;
   height: 100%;
@@ -19,10 +24,12 @@ body {
 }
 
 .tarjeta {
+  height: min-content;
   margin-bottom: 20px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 0.4rem;
   overflow: hidden;
+  background-color: white;
 }
 
 .tarjeta img {
