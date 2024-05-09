@@ -6,8 +6,9 @@
 .ContenedorJE{
     background-color: rgb(255, 255, 255);
     justify-content: space-around;
-    
+    margin: 0 7.3rem;
     display: flex;
+    align-items: center;
 
 }
 
@@ -15,12 +16,11 @@
     width: 600px; 
     height: 315px;
     margin: 2rem;
-    box-shadow: 5px 5px 3px rgb(102, 102, 103); 
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.4);
 }
 
 .ContenedorBotonesJE{
     display: flex;
-    justify-content: space-around;
     align-self: center;
     flex-direction: column;
     height: 100%;
@@ -33,16 +33,27 @@
 .BotonJE{
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: 600;
-    background-color: rgb(251, 250, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(239, 239, 239);
     padding: 1rem;
-    width: 8rem;
+    width: 8.5rem;
     text-align: center;
-    height: 9rem;
+    height: 8.5rem;
     margin: 1rem;
-    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.4);
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+
 }
+
 
 .BotonJE:hover{
     background-color:#082c4c ;
     color: white;
+}
+
+.IconoBotonJE{
+    width: 2rem;
+    height: 2rem;
+    margin: 1.6rem 0;
 }
