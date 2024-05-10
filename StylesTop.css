@@ -18,3 +18,55 @@
         padding: 2rem;
 }
 
+.Contenedor_logo{
+    width: 15rem;
+    background-color: white;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+    padding: 0 2rem; 
+}
+
+.Contenedor_logo img{
+    width: 100%;
+}
+.Contenedor_redes{
+    display: flex;
+    align-items: center;
+    background-color: #002a4c;
+    border-bottom: 1px solid #f27f05;
+}
+
+.Redes{
+    align-items: center;
+    width: 80%;
+    display: flex;
+    justify-content: end;
+    color: white;
+}
+
+.ContenedorRedes p{
+    margin: 0.4rem;
+}
+
+.ContendorRedes{
+    display: flex; 
+    
+}
+
+.ContendorRedes a{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+.Redes li {
+    text-decoration: none;
+    list-style: none;
+    margin-top: 0.4rem;
+    padding: 0.2rem;
+}
+
+.ImagenRedSocial{
+    width: 1.5rem;
+}
+
