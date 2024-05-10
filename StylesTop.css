@@ -70,3 +70,44 @@
     width: 1.5rem;
 }
 
+.navegacion a{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    margin: 1rem;
+}
+
+.navegacion a:hover{
+        color: red;
+        transform: translateY(-5px);
+}   
+
+.Contenedor_portada{
+    background-image: url(./assets/Paseo\ Autonomico.jpg);
+    background-size: cover;
+    height: 30rem;
+    background-blend-mode: multiply;
+    background-color: #2a2c2eb5 ;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Contenedor_portada a:hover{
+    background-color: #6f737679;
+    padding: 0 1rem;
+}
+
+.Contenedor_portada img{
+    width: 15rem;
+}
+
+.Texto_climatico a{
+    text-decoration: none;
+    color: white;
+    font-size: 3rem;
+    font-weight: 700;
+}
