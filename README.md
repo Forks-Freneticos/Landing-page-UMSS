@@ -70,8 +70,24 @@ _**Integrantes:**_
        - ❌ En el código no establece si trabajara con minusculas o mayusculas.
        - ❌ El CSS trabaja separado.
 
-   - 🟣
-     **Esther**, documentado por Fernando
+   - 🟣 **Esther**, documentado por Fernando
+
+     - Buenas Practicas:
+
+       - ✅ Utilizó alias de git para facilitar el uso de los comandos.
+       - ✅ Utilizó comentarios en los commits para explicar los cambios realizados.
+       - ✅ Utilizó ramas para trabajar en paralelo.
+       - ✅ Utilizó el comando `git log --oneline` para ver el historial de commits.
+       - ✅ Realizo issues para la asignacion de tareas.
+       - ✅ Reviso pull request y dio comentarios.
+       - ✅ Realizo commits atomicos
+       - ✅ Realizo un merge con el codigo revisado.
+
+     - Malas Practicas:
+       - ❌ No se estableció un estándar para el nombre de las carpetas y archivos.
+       - ❌ No se estableció un estándar para el código.
+       - ❌ No se estableció un estándar para el CSS.
+       - ❌ No se estableció un estándar para el nombre de las clases en CSS.
 
 4. **Git hooks o git alias utilizaron como equipo**
    - **Git hooks**
