@@ -37,6 +37,20 @@ _**Integrantes:**_
 
    - **Jonatan**, documentado por Esther
    - **Fernando**, documentado por Jonatan
+
+     - Buenas Practicas:
+
+       - Utilizó alias de git para facilitar el uso de los comandos.
+       - Utilizó comentarios en los commits para explicar los cambios realizados.
+       - Utilizó ramas para trabajar en paralelo.
+       - Utilizó el comando `git log` para ver el historial de commits.
+       - Utilizó el comando `git status` para ver el estado de los archivos.
+
+     - Malas Practicas:
+       - No se asignó a nadie para revisar los Pull Request.
+       - En el código no establece si trabajara con minusculas o mayusculas.
+       - El CSS trabaja separado.
+
    - **Esther**, documentado por Fernando
 
 4. **Git hooks o git alias utilizaron como equipo**
