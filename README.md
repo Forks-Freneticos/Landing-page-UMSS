@@ -32,3 +32,9 @@ _**Integrantes:**_
      - El unico conflicto fue al momento de hacer merge entre ramas, no nos pusimos de acuerdo para el nombre de carpetas y archivos, por lo que se tuvo que hacer un merge manual.
    - ¿Quién genero el conflicto y por qué?
      - El conflicto fue generado por todos, ya que no establecimos estandares con el nombre de las carpetas y archivos.
+
+3. **Buenas y malas prácticas**
+
+   - **Jonatan**, documentado por Esther
+   - **Fernando**, documentado por Jonatan
+   - **Esther**, documentado por Fernando
