@@ -37,6 +37,23 @@ _**Integrantes:**_
 3. **Buenas y malas prácticas**
 
    - **Jonatan**, documentado por Esther
+
+     - Buenas Practicas:
+
+       - Utilizó alias de git para facilitar el uso de los comandos.
+       - Utilizó comentarios en los commits para explicar los cambios realizados.
+       - Utilizó ramas para trabajar en paralelo.
+       - Resolvio los conflictos generados en su rama.
+       - Disponibilidad de trabajo en todo momento.
+       - Trabajo conforme al issue asignado.
+
+     - Malas Practicas:
+       - No se asignó a nadie para revisar los Pull Request.
+       - Se realizó un merge sin revisar el código.
+       - No se estableció un estándar para el nombre de las carpetas y archivos.
+       - No se estableció un estándar para el código.
+       - No se estableció un estándar para el CSS.
+
    - **Fernando**, documentado por Jonatan
 
      - Buenas Practicas:
