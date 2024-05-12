@@ -46,6 +46,7 @@ _**Integrantes:**_
        - ✅ Resolvio los conflictos generados en su rama.
        - ✅ Disponibilidad de trabajo en todo momento.
        - ✅ Trabajo conforme al issue asignado.
+       - ✅ Realizo issues para la asignacion de tareas.
 
      - Malas Practicas:
        - ❌ No se asignó a nadie para revisar los Pull Request.
