@@ -4,7 +4,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.contenedor_navegacion {
+.contenedor-navegacion {
         background-image: url(./assets/Fondo\ azul.png);
         background-blend-mode: multiply;
         background-color: #002a4c ;
@@ -18,7 +18,7 @@
         padding: 2rem;
 }
 
-.Contenedor_logo{
+.Contenedor-logo{
     width: 15rem;
     background-color: white;
     border-radius: 10px;
@@ -26,10 +26,10 @@
     padding: 0 2rem; 
 }
 
-.Contenedor_logo img{
+.Contenedor-logo img{
     width: 100%;
 }
-.Contenedor_redes{
+.Contenedor-redes{
     display: flex;
     align-items: center;
     background-color: #002a4c;
@@ -82,7 +82,7 @@
         transform: translateY(-5px);
 }   
 
-.Contenedor_portada{
+.Contenedor-portada{
     background-image: url(./assets/Paseo\ Autonomico.jpg);
     background-size: cover;
     height: 30rem;
@@ -96,16 +96,16 @@
     align-items: center;
 }
 
-.Contenedor_portada a:hover{
+.Contenedor-portada a:hover{
     background-color: #6f737679;
     padding: 0 1rem;
 }
 
-.Contenedor_portada img{
+.Contenedor-portada img{
     width: 15rem;
 }
 
-.Texto_climatico a{
+.Texto-climatico a{
     text-decoration: none;
     color: white;
     font-size: 3rem;
