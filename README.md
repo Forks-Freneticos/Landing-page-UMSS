@@ -38,3 +38,14 @@ _**Integrantes:**_
    - **Jonatan**, documentado por Esther
    - **Fernando**, documentado por Jonatan
    - **Esther**, documentado por Fernando
+
+4. **Git hooks o git alias utilizaron como equipo**
+   - **Git hooks**
+     - No se utilizó git hooks, ya que no se conocía su funcionamiento.
+   - **Git alias**
+     Se utilizó los siguientes alias:
+     - cm = commit -m
+     - ck = checkout
+     - cb = checkout -b
+     - back = reset --soft HEAD~1
+     - po = push origin
